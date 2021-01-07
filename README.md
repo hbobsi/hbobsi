@@ -1,7 +1,11 @@
 # Hey! What's up? 🤙🏿
-My name is Heitor Oliveira, I'm from Brazil 🇧🇷 and I'm a SysAdmin, that has been working as Linux, Windows and Data Protection since 2009. 🥵
+My name is Heitor Oliveira, I'm from Brazil 🇧🇷 
 
-I'm passionate about solving problems and learning new technology. I always ready for prospective challenges and my dream is work and live in Germany 🇧🇪.
+I'm a SysAdmin, that has been working as Linux, Windows and Data Protection since 2009. 🥵
+
+I'm passionate about solving problems and learning new technology. 
+
+I always ready for prospective challenges and my dream is work and live in Germany 🇧🇪.
 
 ####  🧠 "Tento ser ímpar para ser o número um!" 🥇
 
