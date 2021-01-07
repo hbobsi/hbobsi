@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey! What's up? 🤙🏿
+My name is Heitor Oliveira, I'm from Brazil 🇧🇷 and I'm a SysAdmin, that has been working as Linux, Windows and Data Protection since 2009. 🥵
 
-<!--
-**hbobsi/hbobsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about solving problems and learning new technology. I always ready for prospective challenges and my dream is work and live in Germany 🇧🇪.
 
-Here are some ideas to get you started:
+####  🧠 "Tento ser ímpar para ser o número um!" 🥇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 From DF living in Brasília
+- 👨🏿‍💻 SysAdmin at [CentralIT](https://centralit.com.br/)
+- ✌🏿 Sharing my little knowledge with community.
+
+Reach me out 👇🏿
+
+[![Youtube Badge](https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC6DwbDXSDIxIpYdjyJcyFvg/videos)](https://www.youtube.com/channel/UC6DwbDXSDIxIpYdjyJcyFvg/videos) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/heitoroliveira/)](https://www.linkedin.com/in/heitoroliveira/) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/heitorboliva/)](https://www.instagram.com/heitorboliva/)
