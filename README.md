@@ -1,7 +1,7 @@
 # Hey! What's up? 🤙🏿
 My name is Heitor Oliveira, I'm from Brazil 🇧🇷 
 
-I'm a SysAdmin, that has been working as Linux, Windows and Data Protection since 2009. 🥵
+I'm a DevOps, that has been working as Linux, Windows and Data Protection since 2009. 🥵
 
 I'm passionate about solving problems and learning new technology. 
 
@@ -9,8 +9,8 @@ I always ready for prospective challenges and my dream is work and live in Germa
 
 ####  🧠 "Tento ser ímpar para ser o número um!" 🥇
 
-- 📍 From DF living in Brasília
-- 👨🏿‍💻 SysAdmin at [CentralIT](https://centralit.com.br/)
+- 📍 From Brazil living in Brasília
+- 👨🏿‍💻 DevOps at [Boticário](https://www.grupoboticario.com.br/)
 - ✌🏿 Sharing my little knowledge with community.
 
 Reach me out 👇🏿
