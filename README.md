@@ -9,7 +9,7 @@ I always ready for prospective challenges and my dream is work and live in Germa
 
 ####  🧠 "Tento ser ímpar para ser o número um!" 🥇
 
-- 📍 From Brazil living in Brasília
+- 🔰 From Brazil living in Brasília
 - 👨🏿‍💻 DevOps at [Boticário](https://www.grupoboticario.com.br/)
 - ✌🏿 Sharing my little knowledge with community.
 
