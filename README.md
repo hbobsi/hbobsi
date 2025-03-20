@@ -1,17 +1,17 @@
 # Hey! What's up? 🤙🏿
 My name is Heitor Oliveira, I'm from Brazil 🇧🇷 
 
-I'm a DevOps, that has been working as Linux, Windows and Data Protection since 2009. 🥵
+I have been a Data Protection Engineer at Commvault, Veritas NetBackup and Backup Exec since 2009. 🥵
 
 I'm passionate about solving problems and learning new technology. 
 
-I always ready for prospective challenges and my dream is work and live in Germany 🇧🇪.
+I am always ready for prospective challenges, and my dream is to work and live in USA 🇧🇪.
 
 ####  🧠 "Tento ser ímpar para ser o número um!" 🥇
 
-- 🔰 From Brazil living in Brasília
-- 👨🏿‍💻 DevOps at [Boticário](https://www.grupoboticario.com.br/)
-- ✌🏿 Sharing my little knowledge with community.
+- 🔰 From Brazil, living in Brasília
+- 👨🏿‍💻 CEO at [3Seven Consultoria]
+- ✌🏿 Sharing my little knowledge with the community.
 
 Reach me out 👇🏿
 
