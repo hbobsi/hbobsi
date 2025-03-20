@@ -5,7 +5,7 @@ I have been a Data Protection Engineer at Commvault, Veritas NetBackup and Backu
 
 I'm passionate about solving problems and learning new technology. 
 
-I am always ready for prospective challenges, and my dream is to work and live in the USA.:statue_of_liberty:
+I am always ready for prospective challenges, and my dream is to work and live in the USA. :statue_of_liberty:
 
 ####  🧠 "Tento ser ímpar para ser o número um!" 🥇
 
